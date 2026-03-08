@@ -1,0 +1,173 @@
+{
+    "Hello": {
+        "password": "there",
+        "workouts": {
+            "Push Ups": [
+                {
+                    "date": "2025-04-09 23:13:55.048102",
+                    "sets": "20",
+                    "reps": "20"
+                },
+                {
+                    "date": "2025-04-09 23:16:59.739538",
+                    "sets": 40,
+                    "reps": 40
+                },
+                {
+                    "date": "2025-04-09 23:20:37.333454",
+                    "sets": 40,
+                    "reps": 40
+                }
+            ],
+            "Pull Ups": [
+                {
+                    "date": "2025-04-09 23:13:55.048102",
+                    "sets": "20",
+                    "reps": "20"
+                },
+                {
+                    "date": "2025-04-09 23:16:59.739538",
+                    "sets": 27,
+                    "reps": 22
+                },
+                {
+                    "date": "2025-04-09 23:20:37.333454",
+                    "sets": 27,
+                    "reps": 22
+                }
+            ],
+            "Squats": [],
+            "Bench Press": [],
+            "Deadlift": [],
+            "Shoulder Press": [],
+            "Bicep Curl": []
+        }
+    },
+    "why": {
+        "password": "a",
+        "workouts": {
+            "Push Ups": [],
+            "Pull Ups": [],
+            "Squats": [],
+            "Bench Press": [],
+            "Deadlift": [],
+            "Shoulder Press": [],
+            "Bicep Curl": []
+        }
+    },
+    "real": {
+        "password": "h",
+        "workouts": {
+            "Push Ups": [
+                {
+                    "date": "2025-04-09 23:38:18.964020",
+                    "sets": 5,
+                    "reps": 5
+                }
+            ],
+            "Pull Ups": [
+                {
+                    "date": "2025-04-09 23:38:25.898965",
+                    "sets": 5,
+                    "reps": 5
+                }
+            ],
+            "Squats": [],
+            "Bench Press": [],
+            "Deadlift": [],
+            "Shoulder Press": [],
+            "Bicep Curl": []
+        }
+    },
+    "Varad": {
+        "password": "bitch",
+        "workouts": {
+            "Push Ups": [],
+            "Pull Ups": [],
+            "Squats": [
+                {
+                    "date": "2025-04-10 07:58:02.020717",
+                    "sets": 3,
+                    "reps": 3
+                },
+                {
+                    "date": "2025-04-10 07:58:49.039867",
+                    "sets": 5,
+                    "reps": 10
+                }
+            ],
+            "Bench Press": [],
+            "Deadlift": [],
+            "Shoulder Press": [],
+            "Bicep Curl": []
+        },
+        "profile": {
+            "weight_kg": 60.0,
+            "height_ft": 5,
+            "height_in": 5,
+            "age": 17,
+            "gender": "Male",
+            "diet_preference": "Non-Veg"
+        },
+        "bmi_history": [
+            {
+                "date": "2025-04-10 16:54:23.183972",
+                "weight_kg": 60.0,
+                "height_ft": 5,
+                "height_in": 5,
+                "age": 17,
+                "gender": "Male",
+                "diet_preference": "Non-Veg",
+                "bmi": 22.01,
+                "category": "Normal Weight",
+                "suggestion": "Maintain a balanced diet with adequate protein, complex carbohydrates (whole grains), fruits, vegetables, and healthy fats. (e.g., Lean Chicken/Fish, Eggs, Lentils, Beans, Vegetables)"
+            }
+        ]
+    },
+    "Arya": {
+        "password": "D",
+        "workouts": {
+            "Push Ups": [
+                {
+                    "date": "2026-03-08 08:38:14.014881",
+                    "sets": 20,
+                    "reps": 1
+                }
+            ],
+            "Pull Ups": [
+                {
+                    "date": "2026-03-08 08:38:20.575901",
+                    "sets": 12,
+                    "reps": 23
+                }
+            ],
+            "Squats": [],
+            "Bench Press": [],
+            "Deadlift": [],
+            "Shoulder Press": [],
+            "Bicep Curl": []
+        },
+        "profile": {
+            "weight_kg": 12.0,
+            "height_ft": 2,
+            "height_in": 2,
+            "age": 12,
+            "gender": "Male",
+            "diet_preference": "Veg"
+        },
+        "bmi_history": [
+            {
+                "date": "2026-03-08 08:38:36.103457",
+                "weight_kg": 12.0,
+                "height_ft": 2,
+                "height_in": 2,
+                "age": 12,
+                "gender": "Male",
+                "diet_preference": "Veg",
+                "bmi": 27.51,
+                "category": "Overweight",
+                "suggestion": "Focus on portion control, reduced intake of processed foods and sugars. Emphasize lean proteins, high-fiber vegetables, and whole grains. (e.g., Paneer, Lentils, Beans, Tofu, Nuts, Seeds, Whole Grains)"
+            }
+        ]
+    }
+}
